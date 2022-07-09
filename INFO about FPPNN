@@ -1,0 +1,8 @@
+FPPNN is short for Friction Point Prediction Neural Network
+
+How do we humans go and pick up an object, we just go ahead and pick it up
+but is that all happening,ofcourse not,we humans predict a point on the objects body where the application of force or pressure by our fingers will
+provide us maximum grip and these are called friction points,
+and how do we actually find those points..... we analyze its curvature,the type of material its made that is its coefficent of friction
+
+so based on this observations by me, I created The FPPNN
