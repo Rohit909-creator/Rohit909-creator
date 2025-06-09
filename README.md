@@ -1,7 +1,4 @@
 <!-- Banner Image (Optional: Replace with your own custom banner) -->
-<p align="center">
-  <img src="https://github.com/Rohit909-creator/Rohit909-creator/assets/108980398/e96cb779-d419-405f-99ce-485f4babb948" width="70%" alt="Banner">
-</p>
 
 <h1 align="center">Hi there 👋, I'm Rohit</h1>
 <h3 align="center">Creator of A.I.R.A (An Intelligent Robot Assistant)</h3>
