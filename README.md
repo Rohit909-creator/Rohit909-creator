@@ -43,10 +43,13 @@
 | **ACAV** | Autonomous Tesla CyberTruck replica for search & rescue, tracks human and avoids obstacles | `Raspberry Pi`, `Computer Vision`, `Motor Control`, `Gesture Recognition` | [View Project](https://github.com/Dawn-Of-Justice/Autonomus-Construction-Aid-Vehicle) |
 | **SimpleLLM** | Beginner-friendly LLM pretraining framework with easy API for text-based training | `NLP`, `MiniLM`, `Custom Training`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/SimpleLLM) |
 | **SimpleVQA** | Visual Question Answering model for experimentation and learning | `VQA`, `Multimodal`, `Image + Text`, `Basic Architecture` | [View Project](https://github.com/Rohit909-creator/SimpleVQA) |
+| **FaceDetection** | A simple face detection system for experimentation purposes | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/FaceDetection) |
+| **SpecialDecoder** | a replacement layer to M to N blocks in an LLM, trying to make LLM compressed | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/FaceDetection) |
+| **LangDecoder** | Lightweight decoder that lets you chat with documents using precomputed embeddings — local, private, and blazing fast. | `OpenCV`, `Face Detection`, `Vision`, `Python` | Kept Private as of now |
+| **PromptableObjDetection** | A promptable AI based custom object detection model, powered my sam2 | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/CustomObjectDetection) |
 | **DirectorySearch** | GPT3-powered directory search and sort system via CLI | `OpenAI API`, `CLI`, `Smart Search`, `Directory Analysis` | [GitHub Repo](https://github.com/Rohit909-creator/DirectorySearch) |
 | **DreamDoc** | AI system that analyzes and interprets recurring dreams using GPT and a dream dictionary | `GPT`, `Dream Semantics`, `Vector Search`, `Prompt Engineering` | [GitHub Repo](https://github.com/Rohit909-creator/DreamDoc) |
-| **FaceDetection** | A simple face detection system for experimentation purposes | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/FaceDetection) |
-
+| **Rakshak** | rakshak is an AI powered Traffic monitoring, Bullying recognition, crime recognition software, powered by MultiModal LLM Technology | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/rakshak) |
 ---
 
 ## 📫 How to Reach Me
