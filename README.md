@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **A.I.R.A** | A half humanoid robot powere using gpt4, which can talk, move, and interact with users. All of this is controlled by GPT4 because of our good prompting. | `AI Prompting`, `Python`, `OpenCV`, `PyTorch`, `Raspberry Pi`, `NLP`, `AI function call` | [GitHub Repo](https://github.com/Rohit909-creator) |
+| **A.I.R.A** | A half humanoid robot powere using gpt4, which can talk, move, and interact with users. All of this is controlled by GPT4 because of our good prompting. | `AI Prompting`, `Python`, `OpenCV`, `PyTorch`, `Raspberry Pi`, `NLP`, `AI function call` | [GitHub Repo]([https://github.com/Rohit909-creator](https://github.com/Rohit909-creator/AIRA)) |
 | **Speaksense** | Replacement for the good old wakeword detection system using a Multimodal system for detecting when someone is addressing a robot (video + audio fusion) | `ASD`, `NLP`, `CV`, `BiLSTM`, `Lipreading` | [GitHub Repo](https://github.com/Dawn-Of-Justice/SpeakSense) |
 | **EfficientWordNet Upgrade** | Upgrade of AntBrain's EfficientWordNet with advanced adaptive similarity for noise-robust wakeword detection | `Audio Embeddings`, `Similarity Functions`, `Gaussian Kernels`, `Noise-Aware Models` | [View Project](https://github.com/Rohit909-creator/EfficientWordNet_Upgrade) |
 | **Heard-it** | Real-time phrase detection engine using custom similarity functions. Built on EfficientWordNet Upgrade | `Wakeword Detection`, `Deep Learning`, `Audio`, `Real-time`, `Noise Adaptive` | [View Project](https://github.com/Rohit909-creator/Heard-It) |
@@ -42,7 +42,7 @@
 | **SimpleLLM** | Beginner-friendly LLM pretraining framework with easy API for text-based training | `NLP`, `MiniLM`, `Custom Training`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/SimpleLLM) |
 | **SimpleVQA** | Visual Question Answering model for experimentation and learning | `VQA`, `Multimodal`, `Image + Text`, `Basic Architecture` | [View Project](https://github.com/Rohit909-creator/SimpleVQA) |
 | **FaceDetection** | A simple face detection system for experimentation purposes | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/FaceDetection) |
-| **SpecialDecoder** | a replacement layer to M to N blocks in an LLM, trying to make LLM compressed | `OpenCV`, `Face Detection`, `Vision`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/SpecialDecoder) |
+| **SpecialDecoder** | a replacement layer to M to N blocks in an LLM, trying to make LLM compressed | `Research`,`LLM`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/SpecialDecoder) |
 | **LangDecoder** | Lightweight decoder that lets you chat with documents using precomputed embeddings — local, private, and blazing fast. | `OpenCV`, `Face Detection`, `Vision`, `Python` | Kept Private as of now |
 | **MrRobot** | An AI based Reverse Access Trojan, which can be a nightmare for some people... | `Hacking tool`, `Open-Interpretor`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/MrRobot) |
 | **AutoHR** | An RAG and Chain of Thought powered AI-HR who can plan and allocate employee's based on the requirement automatically and logically with a solid plan | `Chain of Thought`, `RAG`, `Python` | [GitHub Repo]([https://github.com/Rohit909-creator/MrRobot](https://github.com/Rohit909-creator/AutoHR)) |
