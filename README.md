@@ -33,7 +33,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **A.I.R.A** | A half humanoid robot powere using gpt4, which can talk, move, and interact with users. All of this is controlled by GPT4 because of our good prompting. | `AI Prompting`, `Python`, `OpenCV`, `PyTorch`, `Raspberry Pi`, `NLP`, `AI function call` | [GitHub Repo](https://github.com/Rohit909-creator/AIRA) |
+| **A.I.R.A** | A half humanoid robot powere using gpt4, which can talk, move, and interact with users. All of this is controlled by GPT4 because of our good prompting. | `AI Prompting`, `Python`, `OpenCV`, `PyTorch`, `Raspberry Pi`, `NLP`, `AI function call` | [GitHub Repo](https://github.com/EurekaBotics/project-AIRA) |
 | **Speaksense** | Replacement for the good old wakeword detection system using a Multimodal system for detecting when someone is addressing a robot (video + audio fusion) | `ASD`, `NLP`, `CV`, `BiLSTM`, `Lipreading` | [GitHub Repo](https://github.com/Dawn-Of-Justice/SpeakSense) |
 | **EfficientWordNet Upgrade** | Upgrade of AntBrain's EfficientWordNet with advanced adaptive similarity for noise-robust wakeword detection | `Audio Embeddings`, `Similarity Functions`, `Gaussian Kernels`, `Noise-Aware Models` | [View Project](https://github.com/Rohit909-creator/EfficientWordNet_Upgrade) |
 | **Heard-it** | Real-time phrase detection engine using custom similarity functions. Built on EfficientWordNet Upgrade | `Wakeword Detection`, `Deep Learning`, `Audio`, `Real-time`, `Noise Adaptive` | [View Project](https://github.com/Rohit909-creator/Heard-It) |
