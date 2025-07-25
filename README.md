@@ -13,7 +13,7 @@
 - 🧪 Self-taught in **Machine Learning & Deep Learning** through **YouTube and hands-on projects**  
 - 🤖 Passionate about **Robotic Manipulation**, **MultiModal AI**, **SLMs**, **Computer Vision**, **Speech Recognition**, **LLM Research**
 - 🧬 **Goal**: Build the **first conscious AGI** — I won't stop until I do.
-
+- Checkout my First Research Paper: https://ieeexplore.ieee.org/document/10730290
 ---
 
 ## 🔧 Tech Stack
