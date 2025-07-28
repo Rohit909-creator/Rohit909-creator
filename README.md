@@ -34,7 +34,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **A.I.R.A** | A half humanoid robot powere using gpt4, which can talk, move, and interact with users. All of this is controlled by GPT4 because of our good prompting. | `AI Prompting`, `Python`, `OpenCV`, `PyTorch`, `Raspberry Pi`, `NLP`, `AI function call` | [GitHub Repo](https://github.com/EurekaBotics/project-AIRA) |
-| **Speaksense** | Replacement for the good old wakeword detection system using a Multimodal system for detecting when someone is addressing a robot (video + audio fusion) | `ASD`, `NLP`, `CV`, `BiLSTM`, `Lipreading` | [GitHub Repo](https://github.com/Dawn-Of-Justice/SpeakSense) |
+| **Speaksense** | Replacement for the good old wakeword detection system using a Multimodal system for detecting when someone is addressing a robot (video + audio fusion) `Go to stable branch` for usage | `ASD`, `NLP`, `CV`, `BiLSTM`, `Lipreading` | [GitHub Repo](https://github.com/Dawn-Of-Justice/SpeakSense) |
 | **SpecialDecoder** | a replacement layer to M to N blocks in an LLM, trying to make LLM compressed | `Research`,`LLM`, `Python` | [GitHub Repo](https://github.com/Rohit909-creator/SpecialDecoder) |
 | **FNET-FourierBased-LanguageModelling** | Just an implementation of FNET Paper, with modifications inspired from recent researches | `Research`,`LLM`, `Python`, `Paper Implementation` | [GitHub Repo](https://github.com/Rohit909-creator/FNET-FourierBased-LanguageModelling) |
 | **LangDecoder** | Lightweight decoder that lets you chat with documents using precomputed embeddings — local, private, and blazing fast. | `LLM`, `Research`, `Optimization`, `Python`, `Facebook Inspired` | Kept Private as of now |
