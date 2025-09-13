@@ -9,7 +9,7 @@
 
 - 👨‍💻 AI Engineer | Neural Architect | Robotics Innovator  
 - 🧠 I design **new neural network architectures**, create **AI tools**, and build **hacking gadgets**  
-- 📚 Btech Degree on **Computer Science (AI & ML)** from **Sree Chitra Thirunal College of Engineering** 2025
+- 📚 Btech Degree Post Graduate on **Computer Science (AI & ML)** from **Sree Chitra Thirunal College of Engineering** 2025
 - 🧪 Self-taught in **Machine Learning & Deep Learning** through **YouTube and hands-on projects**  
 - 🤖 Passionate about **Robotic Manipulation**, **MultiModal AI**, **SLMs**, **Computer Vision**, **Speech Recognition**, **LLM Research**
 - 🧬 **Goal**: Build the **first conscious AGI** — I won't stop until I do.
